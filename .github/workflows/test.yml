@@ -1,4 +1,4 @@
-on: CI
+on: pull_request
 
 name: regression_parachain # 测试平行链
 jobs:
